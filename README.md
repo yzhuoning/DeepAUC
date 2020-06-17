@@ -1,4 +1,4 @@
-# Deep AUC maximization  [![pdf](https://img.shields.io/badge/Arxiv-pdf-orange.svg?style=flat)](https://arxiv.org/abs/1908.10831)
+# Deep AUC Maximization  [![pdf](https://img.shields.io/badge/Arxiv-pdf-orange.svg?style=flat)](https://arxiv.org/abs/1908.10831)
 
 This is the implementation of paper "**Stochastic AUC Maximization with Deep Neural Networks**" published on **ICLR2020**. 
 
