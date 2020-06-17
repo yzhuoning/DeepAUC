@@ -1,0 +1,1 @@
+Please download the datasets from https://www.cs.toronto.edu/~kriz/cifar.html and copy the unzipped files to this folder. 
