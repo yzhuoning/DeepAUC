@@ -1,6 +1,6 @@
 # Deep AUC Maximization  [![pdf](https://img.shields.io/badge/Arxiv-pdf-orange.svg?style=flat)](https://arxiv.org/abs/1908.10831)
 
-This is the implementation of paper "**Stochastic AUC Maximization with Deep Neural Networks**" published on **ICLR2020**. 
+This is the offical implementation of paper "**Stochastic AUC Maximization with Deep Neural Networks**" published on **ICLR2020**. 
 
 ## Installation
 ```
@@ -17,8 +17,14 @@ Tensorflow>=1.10.0
 python PPD_SG.py/PPD_AdaGrad.py --dataset=10 --train_batch_size=128 --use_L2=False --split_index=4 --lr=0.01 --keep_index=0.1 --t0=200
 ```
 
+### Hyperparameter tuning
+```
+gamma=[500, 1000, 2000]
+eta = [0.1, 0.01]
+```
+
 ## Bibtex 
-If you use this repository  in your work, please cite our paper:
+If you use this repository in your work, please cite our paper:
 
 ```
 @inproceedings{
