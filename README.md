@@ -19,8 +19,8 @@ python PPD_SG.py/PPD_AdaGrad.py --dataset=10 --train_batch_size=128 --use_L2=Fal
 
 ### Hyperparameter tuning
 ```
-gamma=[500, 1000, 2000]
-eta = [0.1, 0.01]
+gamma=[500, 1000, 2000, ...]
+eta = [0.1, 0.01, ...]
 T0=[1000, 2000, 3000, ...,]
 ```
 
