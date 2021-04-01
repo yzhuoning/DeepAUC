@@ -28,11 +28,13 @@ T0=[1000, 2000, 3000, ...,]
 If you use this repository in your work, please cite our paper:
 
 ```
-@article{yuan2020robust,
-title={Robust Deep AUC Maximization: A New Surrogate Loss and Empirical Studies on Medical Image Classification},
-author={Yuan, Zhuoning and Yan, Yan and Sonka, Milan and Yang, Tianbao},
-journal={arXiv preprint arXiv:2012.03173},
-year={2020}
+@inproceedings{
+Liu2020Stochastic,
+title={Stochastic AUC Maximization with Deep Neural Networks},
+author={Mingrui Liu and Zhuoning Yuan and Yiming Ying and Tianbao Yang},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=HJepXaVYDr}
 }
 ```
 
